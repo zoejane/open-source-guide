@@ -39,7 +39,7 @@ image: /assets/images/cards/building.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">                      
-  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比底的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
+  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（...）通过允许贡献者参与一些对技术要求比底的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
@@ -53,7 +53,7 @@ image: /assets/images/cards/building.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">  
-  你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（。。。）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
+  你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（...）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
 
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
